@@ -1,6 +1,6 @@
 # The Invariant Layer: A Simulation Ontology
 ### Robert C. Ventura — TMOS13, LLC
-### Draft 1 — March 2026
+### March 2026
 
 ---
 

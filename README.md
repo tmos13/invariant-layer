@@ -210,4 +210,4 @@ This is what the name has always meant. It took a library of 384 packs across 34
 *TMOS13, LLC — Jersey City, NJ*
 *March 2026*
 
-*Companion documents: "The Bubble" (pre-print, 2025) · 13TMOS Protocol Library v1.0 (2026)*
+*Companion documents: "The Bubble" (pre-print, 2026) · 13TMOS Protocol Library v1.0 (2026)*
